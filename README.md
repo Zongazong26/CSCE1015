@@ -1,2 +1,4 @@
-# CSCE1015 - Hochstetler
-Assignment repository for UNT CSCE1015
+## EUID
+arh0442
+## Open Source Discovery
+I choose LoopedIn because it is the capstone repo my team is working on.
